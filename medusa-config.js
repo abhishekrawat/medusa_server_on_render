@@ -81,4 +81,5 @@ module.exports = {
     admin_cors: ADMIN_CORS,
   },
   plugins,
+  
 };
